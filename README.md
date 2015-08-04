@@ -3,6 +3,10 @@ MovieZone Settings & Configurations
 
 So you've chosen to download MovieZone!
 Good, this application is ready to go.
+MovieZone is an application in which you can publish movie-information together with a blog. 
+There is a good looking, summarizing firstpage and there is possibility to search for movies by text or category.
+MovieZone has it's own built CMS-system for the application where there's possibility to CRUD the movies or the blogposts.
+Theres also functionality to edit back-end users of the application. 
 
 All you need to do is follow these steps:
 -----------------------------------------
