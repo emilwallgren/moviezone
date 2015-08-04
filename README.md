@@ -55,7 +55,7 @@ These tables are working, but there is serious room for security issues. One exa
 
 When you are done with all of the above. You can start using MovieZone and publish some of the best movies out there, together with a well functioning blog.
 
-NOTE: The current version of MovieZone contains Swedish language. MovieZone is built upon ANAX which is created by Micael Roos at Blekinge Tekniska Högskola.
+NOTE: The current version of MovieZone contains Swedish language. MovieZone is built upon ANAX which is created by Mikael Roos at Blekinge Tekniska Högskola.
 
 ENJOY :-)
 
