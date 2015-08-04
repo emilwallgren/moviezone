@@ -50,9 +50,9 @@ $mz['charset'] = 'utf-8';
 $mz['favicon'] = 'images/icon.png';
 $mz['stylesheets'] = array('css/normalize.css', 'css/style.css');
 
-$mz['database']['dsn'] 						= 'mysql:host=localhost;dbname=moviezone';
-$mz['database']['username'] 			= 'root';
-$mz['database']['password'] 			= 'root';
+$mz['database']['dsn'] 						= 'mysql:host=YOUR_HOST;dbname=YOUR_DATABASE_NAME';
+$mz['database']['username'] 			= 'YOUR_USERNAME';
+$mz['database']['password'] 			= 'YOUR PASSWORD';
 $mz['database']['driver_options'] = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'UTF8'");
 
 //Header
@@ -62,7 +62,7 @@ $showSearchBar = $movie->searchHeader();
 
 $mz['header'] = <<<EOD
 <div id="heading">
-	<img id="logo" src="images/MovieZone.png" alt="logo-moviezone">
+	<img id="logo" src="images/logo.png" alt="logo-moviezone">
 	<h2 id="slogan">DIN FILMBUTIK PÅ NÄTET</h2>
 	<nav>
 		$showSearchBar
